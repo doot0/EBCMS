@@ -1,0 +1,5 @@
+<?php
+
+//EBCMS Dongfig Parser
+
+?>
