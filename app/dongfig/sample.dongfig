@@ -1,1 +1,5 @@
-//EBCMS sample dongfig file
+DB=localhost
+DB_USR=root
+DB_PASS=ed9e4afe98!
+SITE_NAME=EBCMS Dev
+SITEURL=http://localhost:8888/EBCMS
